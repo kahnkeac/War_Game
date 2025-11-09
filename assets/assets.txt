@@ -1,0 +1,4 @@
+hs_err_pid19304.log
+hs_err_pid5540.log
+libgdx.png
+world_map.png
